@@ -1,4 +1,6 @@
 <p align="center">
+
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated Watchdo terminal banner" width="100%"></p>
   <img src="assets/watchdo.svg" alt="watchdo — run it again when files change" width="100%">
 </p>
 
